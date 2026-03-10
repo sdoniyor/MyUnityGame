@@ -11,6 +11,7 @@ Builds/
 *.user
 *.userprefs
 *.pidb
+*.unitypackage
 
 .vscode/
 .idea/
